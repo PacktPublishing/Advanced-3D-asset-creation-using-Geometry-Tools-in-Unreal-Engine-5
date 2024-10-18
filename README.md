@@ -18,7 +18,6 @@ This repository contains the project files and examples for the book "Advanced 3
 
 - `/Content`: Contains all the 3D assets, materials, and blueprints created throughout the book
 - `/Config`: Project configuration files
-- `/Source`: Any custom C++ code used in the project
 
 ## Key Features Covered
 
