@@ -6,7 +6,7 @@ This repository contains the project files and examples for the book "Advanced 3
 
 - **Unreal Engine Version**: 5.5
 - **Focus**: Advanced techniques for 3D asset creation using UE5's Geometry Tools
-- **Target Audience**: Intermediate to advanced Unreal Engine users, 3D artists, and game developers
+- **Target Audience**: Beginner to advanced Unreal Engine users, 3D artists, and game developers
 
 ## Prerequisites
 
