@@ -1,0 +1,24 @@
+{
+    "FileVersion": 3,
+    "Version": 2,
+    "VersionName": "2.0.0 Optimized",
+    "FriendlyName": "Reference Viewer Advanced - Optimized",
+    "Description": "High-performance professional reference overlay system for Unreal Engine 5",
+    "Category": "Editor",
+    "CreatedBy": "Francisco Barros",
+    "CreatedByURL": "https://www.barroscreations.com",
+    "DocsURL": "",
+    "MarketplaceURL": "",
+    "SupportURL": "",
+    "CanContainContent": false,
+    "IsBetaVersion": false,
+    "IsExperimentalVersion": false,
+    "Installed": false,
+    "Modules": [
+        {
+            "Name": "ReferenceViewer",
+            "Type": "Editor",
+            "LoadingPhase": "Default"
+        }
+    ]
+}
